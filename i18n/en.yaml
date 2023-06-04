@@ -1,22 +1,12 @@
-- id: wishlist
-  translation: "Wishlist"
 - id: rsvp
   translation: "RSVP"
 - id: wedding
   translation: "Wedding"
 - id: wedding_date
-  translation: "September 10, 2022"
+  translation: "July 8, 2023"
 - id: wedding_message
   translation: "We are getting married and would like to celebrate our love with family and friends!"
 - id: contact
   translation: "Contact"
 - id: rsvp_deadline
-  translation: "RSVP latest July 30"
-- id: speech_button
-  translation: "Give a Speech"
-- id: speech_send_email
-  translation: "Notify toastmasters"
-- id: speech_email
-  translation: "mailto:juanfelipesim@gmail.com?subject=Speech at the Wedding"
-- id: speech_message
-  translation: "If you'd like to give a speech at the wedding, please notify our toastmasters via an email:"
+  translation: "RSVP latest June 28"

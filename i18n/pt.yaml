@@ -1,0 +1,12 @@
+- id: rsvp
+  translation: "RSVP"
+- id: wedding
+  translation: "Casamento"
+- id: wedding_date
+  translation: "8 de Julho de 2023"
+- id: wedding_message
+  translation: "Vamos nos casar e gostaríamos de celebrar nosso amor com a família e amigos!"
+- id: contact
+  translation: "Contato"
+- id: rsvp_deadline
+  translation: "RSVP no último dia 28 de Junho"
